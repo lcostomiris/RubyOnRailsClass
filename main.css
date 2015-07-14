@@ -1,0 +1,18 @@
+body { 
+background-color: orange;
+text-align:center;
+}
+title {
+text-align: center;
+}
+.text-red {
+color: red;
+}
+
+.text-blue {
+color:blue;
+}
+
+.align-left {
+text-align: left;
+}
